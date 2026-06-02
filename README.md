@@ -1,8 +1,8 @@
 # Hey, I'm Heath
 
-Solutions Engineer at [Edge Impulse](https://edgeimpulse.com/) (Qualcomm). Making sensors smarter at the edge.
+Developer Relations Engineer at [Qualcomm](https://qualcomm.com/). Making sensors smarter at the edge.
 
-Formerly: [Losant](https://losant.com), [PredictHQ](https://predicthq.com)
+Formerly: [Losant](https://losant.com), [PredictHQ](https://predicthq.com), [Edge Impulse](https://edgeimpulse.com)
 
 ## Building
 
